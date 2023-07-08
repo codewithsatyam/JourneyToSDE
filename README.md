@@ -1,7 +1,11 @@
 # Journey_To_SDE
 Tracking my journey from aspiring coder to Software Development Engineer (SDE).
 
-<br> </br>
+<br> <div align="center">
+  <img src="https://img.shields.io/badge/language-java-blue">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/update-daily-green">&nbsp;&nbsp;
+</div>
+</br>
 <p>Hi &#128075, I'm <a href="https://github.com/codewithsatyam"><em>Satyam Mishra</em></a> and Welcome to my <strong>#100DaysOfCode</strong> journey! This repository is a record of my daily coding progress as I work towards becoming a Software Development Engineer (SDE) in a company. I'm committed to dedicating time every day to code, learn new concepts, and solve coding challenges. Join me as I embark on this exciting adventure!</p>
 - 🌱 I’m currently learning DSA in Java and Flutter to build Apps.
 
