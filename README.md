@@ -1,4 +1,4 @@
-# JourneyToSDE
+# Journey_To_SDE
 Tracking my journey from aspiring coder to Software Development Engineer (SDE).
 
 <br> </br>
